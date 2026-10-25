@@ -1,0 +1,236 @@
+[
+  {
+    "id": "shore-temple",
+    "name": "Mahabalipuram Shore Temple",
+    "location": "Mahabalipuram, Chengalpattu",
+    "category": "Heritage",
+    "thumbnail": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=1200",
+    "description": "UNESCO World Heritage site by the sea with stunning Pallava-era stone architecture.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Shore+Temple+Mahabalipuram&output=embed"
+  },
+  {
+    "id": "meenakshi",
+    "name": "Madurai Meenakshi Amman Temple",
+    "location": "Madurai",
+    "category": "Temple",
+    "thumbnail": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200",
+    "description": "Iconic temple complex famous for towering gopurams and vibrant sculptures.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Meenakshi+Temple+Madurai&output=embed"
+  },
+  {
+    "id": "rameswaram-corridor",
+    "name": "Rameswaram Temple Corridor",
+    "location": "Rameswaram, Ramanathapuram",
+    "category": "Temple",
+    "thumbnail": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=1200",
+    "description": "Walk through one of India’s longest temple corridors at Ramanathaswamy Temple.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Ramanathaswamy+Temple+Rameswaram&output=embed"
+  },
+  {
+    "id": "brihadeeswarar",
+    "name": "Brihadeeswarar Temple",
+    "location": "Thanjavur",
+    "category": "Heritage",
+    "thumbnail": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
+    "description": "Chola masterpiece (UNESCO) with a towering vimana and grand courtyards.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Brihadeeswarar+Temple+Thanjavur&output=embed"
+  },
+  {
+    "id": "ooty-hills",
+    "name": "Ooty Hills View",
+    "location": "Ooty, Nilgiris",
+    "category": "Hill Station",
+    "thumbnail": "https://images.unsplash.com/photo-1590424744295-9773822f3041?w=1200",
+    "description": "Misty hills and tea estates—classic Nilgiri scenery.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Doddabetta+Peak+Ooty&output=embed"
+  },
+  {
+    "id": "kodaikanal-lake",
+    "name": "Kodaikanal Lake",
+    "location": "Kodaikanal, Dindigul",
+    "category": "Nature",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200",
+    "description": "Star-shaped lake surrounded by pines—perfect for a serene virtual stroll.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Kodaikanal+Lake&output=embed"
+  },
+  {
+    "id": "kanyakumari-sunrise",
+    "name": "Kanyakumari Sunrise Point",
+    "location": "Kanyakumari",
+    "category": "Nature",
+    "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+    "description": "Famous sunrise views where the seas meet—an unforgettable horizon.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Kanyakumari+Sunrise+Point&output=embed"
+  },
+  {
+    "id": "hogenakkal",
+    "name": "Hogenakkal Falls",
+    "location": "Dharmapuri",
+    "category": "Waterfalls",
+    "thumbnail": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1200",
+    "description": "The ‘Niagara of India’—Cauvery cascades through dramatic rocky gorges.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Hogenakkal+Falls&output=embed"
+  },
+  {
+    "id": "courtallam",
+    "name": "Courtallam Falls",
+    "location": "Courtallam, Tenkasi",
+    "category": "Waterfalls",
+    "thumbnail": "https://images.unsplash.com/photo-1582268611958-ebaf161c8e28?w=1200",
+    "description": "The ‘Spa of South India’ with multiple falls and lush surroundings.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Courtallam+Falls&output=embed"
+  },
+  {
+    "id": "chidambaram",
+    "name": "Chidambaram Nataraja Temple",
+    "location": "Chidambaram, Cuddalore",
+    "category": "Temple",
+    "thumbnail": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200",
+    "description": "Sacred temple of Nataraja—famous for its cosmic dance symbolism.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Chidambaram+Nataraja+Temple&output=embed"
+  },
+  {
+    "id": "kanchipuram",
+    "name": "Kanchipuram Temples",
+    "location": "Kanchipuram",
+    "category": "Temple",
+    "thumbnail": "https://images.unsplash.com/photo-1596422846543-75c6ee1976e5?w=1200",
+    "description": "Temple city with iconic Dravidian architecture and ancient history.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Kanchipuram+Temples&output=embed"
+  },
+  {
+    "id": "yegiri",
+    "name": "Yelagiri Hills",
+    "location": "Yelagiri, Tirupathur",
+    "category": "Adventure",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200",
+    "description": "A quiet hill getaway with viewpoints and easy treks.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Yelagiri&output=embed"
+  },
+  {
+    "id": "kolli",
+    "name": "Kolli Hills Hairpin Bends",
+    "location": "Kolli Hills, Namakkal",
+    "category": "Adventure",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200",
+    "description": "Legendary hairpin bends and misty hills—great for adventure vibes.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Kolli+Hills&output=embed"
+  },
+  {
+    "id": "gingee",
+    "name": "Gingee Fort",
+    "location": "Gingee, Villupuram",
+    "category": "Heritage",
+    "thumbnail": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200",
+    "description": "The ‘Troy of the East’—a hill fort with panoramic views.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Gingee+Fort&output=embed"
+  },
+  {
+    "id": "pulicat",
+    "name": "Pulicat Lake",
+    "location": "Pulicat, Tiruvallur",
+    "category": "Nature",
+    "thumbnail": "https://images.unsplash.com/photo-1582268611958-ebaf161c8e28?w=1200",
+    "description": "A scenic lagoon ideal for birding and sunsets.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Pulicat+Lake&output=embed"
+  },
+  {
+    "id": "marina",
+    "name": "Marina Beach",
+    "location": "Chennai",
+    "category": "Beach",
+    "thumbnail": "https://images.unsplash.com/photo-1559827260-dc66d43bef33?w=1200",
+    "description": "India’s longest urban beach—perfect for a virtual seaside walk.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Marina+Beach+Chennai&output=embed"
+  },
+  {
+    "id": "vivekananda-rock",
+    "name": "Vivekananda Rock Memorial",
+    "location": "Kanyakumari",
+    "category": "Heritage",
+    "thumbnail": "https://images.unsplash.com/photo-1559827260-dc66d43bef33?w=1200",
+    "description": "A serene memorial on a rock island—reachable by ferry in real life.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Vivekananda+Rock+Kanyakumari&output=embed"
+  },
+  {
+    "id": "dhanushkodi",
+    "name": "Dhanushkodi Ghost Town",
+    "location": "Dhanushkodi, Ramanathapuram",
+    "category": "Hidden Gems",
+    "thumbnail": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=1200",
+    "description": "A windswept coastline where two seas meet—raw, dramatic landscapes.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Dhanushkodi&output=embed"
+  },
+  {
+    "id": "pichavaram",
+    "name": "Pichavaram Mangrove Forest",
+    "location": "Pichavaram, Cuddalore",
+    "category": "Hidden Gems",
+    "thumbnail": "https://images.unsplash.com/photo-1582268611958-ebaf161c8e28?w=1200",
+    "description": "Mangrove canals and boat routes—one of Tamil Nadu’s best hidden ecosystems.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Pichavaram+Mangrove&output=embed"
+  },
+  {
+    "id": "avalache",
+    "name": "Avalanche Lake",
+    "location": "Ooty, Nilgiris",
+    "category": "Hidden Gems",
+    "thumbnail": "https://images.unsplash.com/photo-1590424744295-9773822f3041?w=1200",
+    "description": "A quiet lake in the Nilgiris with forest scenery and cool climate.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Avalanche+Lake+Ooty&output=embed"
+  },
+  {
+    "id": "topslip",
+    "name": "Topslip (Anamalai Hills)",
+    "location": "Topslip, Coimbatore",
+    "category": "Wildlife",
+    "thumbnail": "https://images.unsplash.com/photo-1564349683136-77e08dba1e0f?w=1200",
+    "description": "Gateway to Anamalai forests—wildlife, viewpoints, and rainforest air.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Topslip+Anamalai&output=embed"
+  },
+  {
+    "id": "meghamalai",
+    "name": "Meghamalai",
+    "location": "Meghamalai, Theni",
+    "category": "Hidden Gems",
+    "thumbnail": "https://images.unsplash.com/photo-1590424744295-9773822f3041?w=1200",
+    "description": "Misty ‘High Wavy Mountains’—offbeat tea country.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Meghamalai&output=embed"
+  },
+  {
+    "id": "ooty-lake",
+    "name": "Ooty Lake",
+    "location": "Ooty, Nilgiris",
+    "category": "Nature",
+    "thumbnail": "https://images.unsplash.com/photo-1590424744295-9773822f3041?w=1200",
+    "description": "A calm lake surrounded by hills; boating spot in the heart of Ooty.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Ooty+Lake&output=embed"
+  },
+  {
+    "id": "five-rathas",
+    "name": "Five Rathas",
+    "location": "Mahabalipuram, Chengalpattu",
+    "category": "Heritage",
+    "thumbnail": "https://images.unsplash.com/photo-1596422846543-75c6ee1976e5?w=1200",
+    "description": "Rock-cut monolithic temples carved as chariots—Pallava-era wonders.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Pancha+Rathas+Mahabalipuram&output=embed"
+  },
+  {
+    "id": "rockfort-trichy",
+    "name": "Rock Fort Temple",
+    "location": "Tiruchirappalli",
+    "category": "Heritage",
+    "thumbnail": "https://images.unsplash.com/photo-1596422846543-75c6ee1976e5?w=1200",
+    "description": "Historic hill rock with temples and sweeping city views.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Rock+Fort+Tiruchirappalli&output=embed"
+  },
+  {
+    "id": "srirangam",
+    "name": "Srirangam Temple",
+    "location": "Srirangam, Tiruchirappalli",
+    "category": "Temple",
+    "thumbnail": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200",
+    "description": "A vast temple complex—one of the largest functioning Hindu temples.",
+    "vrEmbedUrl": "https://www.google.com/maps?q=Srirangam+Temple&output=embed"
+  }
+]

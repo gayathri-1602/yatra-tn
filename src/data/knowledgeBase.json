@@ -1,0 +1,68 @@
+{
+  "places": [
+    {"name": "Chennai", "description": "Capital of Tamil Nadu. Must-see: Marina Beach, Kapaleeshwarar Temple, Fort St George, Government Museum. Best time: October to February. Try filter coffee, idli, dosa.", "best_season": "October to February", "local_food": ["Idli", "Dosa", "Vada", "Sambar", "Filter Coffee", "Chettinad Chicken"], "transportation": ["Chennai International Airport (MAA)", "Chennai Central Railway", "Metro", "Buses"]},
+    {"name": "Mahabalipuram", "description": "UNESCO World Heritage site. Shore Temple, Five Rathas, Arjuna's Penance. Best time: October to March. Near Chennai.", "best_season": "October to March", "local_food": ["Seafood", "Coconut curries"], "transportation": ["From Chennai by road 60 km", "Buses", "Taxis"]},
+    {"name": "Madurai", "description": "Temple city. Meenakshi Amman Temple, Thirumalai Nayak Palace. Best time: October to March. Try Jigarthanda and Kari Dosa.", "best_season": "October to March", "local_food": ["Jigarthanda", "Kari Dosa", "Parotta", "Pongal"], "transportation": ["Madurai Airport (IXM)", "Madurai Junction", "Buses"]},
+    {"name": "Rameswaram", "description": "Holy island. Ramanathaswamy Temple, Dhanushkodi. Part of Char Dham. Best time: October to April.", "best_season": "October to April", "local_food": ["Vegetarian thali", "Seafood in Dhanushkodi"], "transportation": ["Train via Pamban Bridge", "From Madurai by road"]},
+    {"name": "Kanyakumari", "description": "Southernmost tip of India. Vivekananda Rock, Thiruvalluvar Statue, sunrise and sunset. Best time: October to March.", "best_season": "October to March", "local_food": ["Seafood", "Banana chips"], "transportation": ["Nearest airport Trivandrum", "Kanyakumari Railway", "Buses"]},
+    {"name": "Ooty", "description": "Queen of Hill Stations. Ooty Lake, Botanical Garden, Doddabetta, Nilgiri Toy Train. Best time: March to June, September to November.", "best_season": "March to June, September to November", "local_food": ["Ooty Varkey", "Homemade chocolates", "Tea"], "transportation": ["Nearest airport Coimbatore", "Toy train from Mettupalayam", "Buses"]},
+    {"name": "Kodaikanal", "description": "Princess of Hill Stations. Kodaikanal Lake, Coaker's Walk, Pillar Rocks, Bryant Park. Best time: September to May.", "best_season": "September to May", "local_food": ["Homemade chocolates", "Hill bananas", "Eucalyptus oil"], "transportation": ["Nearest airport Madurai", "Kodai Road Railway", "Buses"]},
+    {"name": "Thanjavur", "description": "Brihadeeswarar Temple (Big Temple) UNESCO site, Thanjavur Palace, art and music. Best time: October to March.", "best_season": "October to March", "local_food": ["Thanjavur biryani", "Asoka halwa", "Curd rice"], "transportation": ["Nearest airport Tiruchirappalli", "Thanjavur Junction", "Buses"]},
+    {"name": "Yercaud", "description": "Hill station near Salem. Lady's Seat, Yercaud Lake, coffee plantations. Best time: September to May.", "best_season": "September to May", "local_food": ["Coffee", "Local fruits"], "transportation": ["From Salem 28 km", "Buses", "Taxis"]},
+    {"name": "Hogenakkal Falls", "description": "Cauvery falls; coracle rides. Best time: July to October. Near Dharmapuri.", "best_season": "July to October", "local_food": ["Fresh fish", "Local meals"], "transportation": ["From Bangalore or Salem", "Buses to Hogenakkal"]},
+    {"name": "Courtallam", "description": "Spa of South India; medicinal waterfalls. Best time: June to September. Tenkasi district.", "best_season": "June to September", "local_food": ["Traditional meals", "Banana"], "transportation": ["Tenkasi railway", "From Madurai/Tirunelveli"]},
+    {"name": "Yelagiri", "description": "Small hill station. Swamimalai trek, Punganur Lake. Best time: October to March.", "best_season": "October to March", "local_food": ["Local cuisine"], "transportation": ["From Chennai or Vellore", "Buses"]},
+    {"name": "Velankanni", "description": "Our Lady of Good Health basilica. Major Christian pilgrimage. Best time: September to March.", "best_season": "September to March", "local_food": ["Vegetarian near church", "Coastal food"], "transportation": ["Nagapattinam", "Buses from Trichy"]},
+    {"name": "Chidambaram", "description": "Nataraja Temple; cosmic dance. Kanaka Sabai. Best time: October to March.", "best_season": "October to March", "local_food": ["Temple prasadam", "Local meals"], "transportation": ["From Chennai, Puducherry", "Buses"]},
+    {"name": "Kanchipuram", "description": "City of thousand temples. Ekambareswarar, Kailasanathar, Varadharaja. Kanjeevaram silk. Best time: October to March.", "best_season": "October to March", "local_food": ["Temple prasadam", "Street food"], "transportation": ["From Chennai 72 km", "Buses", "Taxis"]},
+    {"name": "Pondicherry", "description": "French Quarter, Promenade Beach, Auroville, Matrimandir. Best time: October to March.", "best_season": "October to March", "local_food": ["French pastries", "Creole", "Seafood"], "transportation": ["Puducherry Airport", "Railway", "From Chennai"]}
+  ],
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "fire": "101",
+    "disaster_management": "1077"
+  },
+  "travel_tips": [
+    "Carry hat, sunglasses, and sunscreen in summer.",
+    "Stay hydrated; drink bottled or filtered water.",
+    "Dress modestly in temples (shoulders and knees covered).",
+    "Remove footwear before entering temple sanctums.",
+    "Bargain in local markets but be respectful.",
+    "Keep valuables safe; be aware of surroundings.",
+    "Book hill station and train tickets in advance.",
+    "Carry light woolens for Ooty, Kodaikanal, Yercaud."
+  ],
+  "safety_advice": [
+    "Avoid isolated areas at night.",
+    "Do not accept food or drinks from strangers.",
+    "Keep copies of ID and emergency numbers.",
+    "Dial 100 (Police), 108 (Ambulance), 101 (Fire) in emergency."
+  ],
+  "festivals": [
+    {"name": "Pongal", "when": "January", "where": "All Tamil Nadu", "note": "Harvest festival; Jallikattu in some districts."},
+    {"name": "Chithirai Thiruvizha", "when": "April-May", "where": "Madurai", "note": "Meenakshi Temple; celestial wedding."},
+    {"name": "Navaratri", "when": "September-October", "where": "Everywhere", "note": "Golu displays, music."},
+    {"name": "Mahabalipuram Dance Festival", "when": "December-January", "where": "Mahabalipuram", "note": "Classical dance at Shore Temple."}
+  ],
+  "transport": {
+    "airports": "Chennai (MAA), Madurai (IXM), Coimbatore (CJB), Trichy (TRZ), Tuticorin.",
+    "trains": "Chennai Central, Egmore; Madurai Junction; Coimbatore; Trichy; major towns connected.",
+    "bus": "TNSTC and private buses connect all districts.",
+    "local": "Chennai Metro; autos and taxis in cities; rent cars for long trips."
+  },
+  "keywords": [
+    {"keywords": ["best places", "top destinations", "tamil nadu tourism", "where to go"], "answer": "Top places: Chennai (Marina, temples), Mahabalipuram (Shore Temple), Madurai (Meenakshi), Rameswaram, Kanyakumari, Ooty, Kodaikanal, Thanjavur (Big Temple), Yercaud, Hogenakkal, Courtallam. Explore by category: Temple, Beach, Hill Station, Heritage, Nature, Wildlife."},
+    {"keywords": ["temple", "temples", "near chennai"], "answer": "Temples near Chennai: Kapaleeshwarar (Mylapore), Mahabalipuram Shore Temple, Kanchipuram (Ekambareswarar, Kailasanathar), Chidambaram Nataraja, Tiruvannamalai Arunachaleswarar, Vellore Golden Temple."},
+    {"keywords": ["food", "eat", "try", "madurai"], "answer": "In Madurai try: Jigarthanda (cold drink), Kari Dosa, Parotta, Pongal, street snacks near Meenakshi Temple."},
+    {"keywords": ["best time", "when to visit", "ooty", "kodaikanal", "hills"], "answer": "Ooty: March to June and September to November. Kodaikanal: September to May. Yercaud: September to May. Carry light woolens."},
+    {"keywords": ["how to reach", "rameswaram", "transport"], "answer": "Rameswaram: Nearest airport Madurai. Train via Pamban Bridge (scenic). Buses from Madurai, Trichy, Chennai. Island connected by road and rail."},
+    {"keywords": ["emergency", "help", "police", "ambulance", "number"], "answer": "Emergency numbers: Police - 100, Ambulance - 108, Fire - 101. Keep these saved. For disaster management: 1077."},
+    {"keywords": ["safety", "tips", "travel safe"], "answer": "Travel safety: Dress modestly in temples, drink bottled water, keep valuables safe, avoid isolated areas at night, carry ID copies, save emergency numbers (100, 108, 101)."},
+    {"keywords": ["festival", "festivals", "when"], "answer": "Major festivals: Pongal (Jan), Chithirai in Madurai (Apr-May), Navaratri (Sep-Oct), Mahabalipuram Dance Festival (Dec-Jan). Plan visits around these for cultural experience."},
+    {"keywords": ["hello", "thank you", "tamil", "phrase"], "answer": "Common Tamil: Hello - வணக்கம் (Vanakkam), Thank you - நன்றி (Nandri). Use our Translator for more phrases in Tamil, Hindi, Telugu, Malayalam, Kannada."},
+    {"keywords": ["budget", "cheap", "expensive", "cost"], "answer": "Tamil Nadu suits all budgets. Low: buses, modest hotels, local food. Medium: trains, mid-range hotels. Luxury: flights, heritage stays (Chettinad, Ooty), guided tours. Use our Budget Calculator for estimates."},
+    {"keywords": ["hotel", "stay", "accommodation"], "answer": "Use our Hotel Finder to filter by city, budget, and rating. Major cities and hill stations have good options; book in advance for Ooty, Kodaikanal, and festival times."},
+    {"keywords": ["voice", "speak", "assistant"], "answer": "Use the Voice Travel Guide to ask aloud: 'Best places in Tamil Nadu', 'Show temples near Madurai'. It uses the same knowledge base for instant answers."}
+  ]
+}

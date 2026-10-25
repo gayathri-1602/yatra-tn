@@ -54,7 +54,7 @@
   --card-foreground: oklch(0.145 0 0);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
+  --primary: oklch(0.5 0.2 250);
   --primary-foreground: oklch(0.985 0 0);
   --secondary: oklch(0.97 0 0);
   --secondary-foreground: oklch(0.205 0 0);
@@ -126,4 +126,27 @@
   html {
     @apply font-sans;
   }
+}
+
+/* Hover effects for icons and buttons */
+.hover-scale:hover {
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}
+.hover-glow:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+.sos-hover:hover {
+  box-shadow: 0 0 30px rgba(239, 68, 68, 0.6);
+  transition: all 0.3s ease;
+}
+/* Glassmorphism utility */
+.glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+}
+.glass-dark {
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(8px);
 }
